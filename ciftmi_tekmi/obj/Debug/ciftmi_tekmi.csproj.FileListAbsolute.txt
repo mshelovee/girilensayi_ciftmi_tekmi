@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\bin\Debug\ciftmi_tekmi.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\bin\Debug\ciftmi_tekmi.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\bin\Debug\ciftmi_tekmi.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\obj\Debug\ciftmi_tekmi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\obj\Debug\ciftmi_tekmi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\obj\Debug\ciftmi_tekmi.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\obj\Debug\ciftmi_tekmi.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\obj\Debug\ciftmi_tekmi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\obj\Debug\ciftmi_tekmi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\obj\Debug\ciftmi_tekmi.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ciftmi_tekmi\ciftmi_tekmi\obj\Debug\ciftmi_tekmi.pdb
